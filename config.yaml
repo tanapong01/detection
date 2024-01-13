@@ -1,0 +1,7 @@
+path: C:\Users\Acer Nitro5\Desktop\Engineer\Project\code
+train: train\images\train
+val: train\images\train 
+
+
+nc: 5
+names: ['bicycle', 'bus', 'car', 'motorbike', 'person']
